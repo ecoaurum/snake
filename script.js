@@ -1,6 +1,3 @@
-// Ссылка на урок: 
-//https://www.youtube.com/watch?v=x9bGncEL2Zg&list=PL3LQJkGQtzc5_T0iUzzGv_h3GSksei0AJ&index=1&ab_channel=GloAcademy
-
 //  Первая часть
 
 //1. Создадим поле
